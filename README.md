@@ -4,14 +4,14 @@
 
 ## Shadowrocket
 
-[shadowrocket/sr_ru_geo_custom.conf](shadowrocket/sr_ru_geo_custom.conf) — конфиг с разделением трафика:
+[shadowrocket/vibe-config.conf](shadowrocket/vibe-config.conf) — конфиг с разделением трафика:
 российские сайты (`.ru`, `.su`, `.рф`, `GEOIP RU`, банки, ip-чекеры) идут напрямую,
 всё остальное — через прокси.
 
 ### Импорт по raw-URL
 
 ```
-https://raw.githubusercontent.com/A-Tarski/vibe-proxy-config/main/shadowrocket/sr_ru_geo_custom.conf
+https://raw.githubusercontent.com/A-Tarski/vibe-proxy-config/main/shadowrocket/vibe-config.conf
 ```
 
 Shadowrocket → **Config** → **+** → вставить URL → **Download**.

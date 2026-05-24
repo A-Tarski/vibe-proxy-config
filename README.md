@@ -34,4 +34,4 @@ Shadowrocket → **Config** → **+** → вставить URL → **Download**.
 
 Конфиг подгружает geo-файлы от [roscomvpn-geoip](https://github.com/hydraponique/roscomvpn-geoip) и
 [roscomvpn-geosite](https://github.com/hydraponique/roscomvpn-geosite) — там есть нужные категории
-`category-ru`, `whitelist`. Они автообновляются по ветке `main`.
+`category-ru`, `whitelist`. Они автообновляются по ветке `master`.

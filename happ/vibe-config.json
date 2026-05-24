@@ -14,7 +14,9 @@
   "DirectSites": [
     "geosite:private",
     "geosite:category-ru",
-    "geosite:whitelist"
+    "geosite:whitelist",
+    "domain:yougile.com",
+    "domain:yougile.ru"
   ],
   "DirectIp": [
     "geoip:private",

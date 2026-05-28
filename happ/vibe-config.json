@@ -32,7 +32,8 @@
     "domain:whatsapp.com",
     "domain:whatsapp.net",
     "domain:linkedin.com",
-    "domain:licdn.com"
+    "domain:licdn.com",
+    "domain:linktr.ee"
   ],
   "ProxyIp": [],
   "BlockSites": [],

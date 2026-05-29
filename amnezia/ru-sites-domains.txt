@@ -1,0 +1,178 @@
+# Список основных российских сайтов для обхода VPN (split tunneling) в AmneziaVPN.
+# Формат: один домен на строку. Строки с # и пустые игнорируются генератором.
+# Эти домены резолвятся в IP скриптом generate_amnezia_list.py -> ru-direct.json
+#
+# ВАЖНО: Amnezia маршрутизирует ТОЛЬКО по IP. IP marketplace-ов/CDN меняются,
+# поэтому список нужно периодически пересобирать (см. README).
+
+# === YouGile (приоритет пользователя) ===
+yougile.com
+yougile.ru
+ru.yougile.com
+
+# === Маркетплейсы ===
+ozon.ru
+www.ozon.ru
+wildberries.ru
+www.wildberries.ru
+market.yandex.ru
+megamarket.ru
+sbermegamarket.ru
+aliexpress.ru
+lamoda.ru
+kazanexpress.ru
+joom.com
+avito.ru
+youla.ru
+flowwow.com
+sima-land.ru
+vseinstrumenti.ru
+petrovich.ru
+leroymerlin.ru
+detmir.ru
+
+# === Электроника / ритейл ===
+dns-shop.ru
+mvideo.ru
+eldorado.ru
+citilink.ru
+technopark.ru
+regard.ru
+onlinetrade.ru
+holodilnik.ru
+
+# === Yandex ===
+yandex.ru
+ya.ru
+yandex.net
+yastatic.net
+mc.yandex.ru
+taxi.yandex.ru
+disk.yandex.ru
+music.yandex.ru
+mail.yandex.ru
+dzen.ru
+kinopoisk.ru
+afisha.yandex.ru
+eda.yandex.ru
+plus.yandex.ru
+360.yandex.ru
+
+# === VK / Mail.ru Group ===
+vk.com
+vk.ru
+vkontakte.ru
+vkvideo.ru
+userapi.com
+vk-cdn.net
+mycdn.me
+mail.ru
+my.mail.ru
+ok.ru
+cloud.mail.ru
+pulse.mail.ru
+vkmessenger.com
+vkplay.ru
+
+# === Банки и платежи ===
+sberbank.ru
+sber.ru
+online.sberbank.ru
+sberbank.com
+tinkoff.ru
+tbank.ru
+vtb.ru
+alfabank.ru
+gazprombank.ru
+raiffeisen.ru
+open.ru
+psbank.ru
+rshb.ru
+sovcombank.ru
+mkb.ru
+pochtabank.ru
+mironline.ru
+nspk.ru
+yoomoney.ru
+sbp.nspk.ru
+
+# === Госуслуги и госсервисы ===
+gosuslugi.ru
+nalog.ru
+nalog.gov.ru
+lkfl2.nalog.ru
+lknpd.nalog.ru
+mos.ru
+pfr.gov.ru
+sfr.gov.ru
+gov.ru
+rosreestr.ru
+rosreestr.gov.ru
+fssp.gov.ru
+mvd.ru
+customs.gov.ru
+rkn.gov.ru
+sudrf.ru
+
+# === Телеком ===
+mts.ru
+beeline.ru
+megafon.ru
+tele2.ru
+t2.ru
+rostelecom.ru
+
+# === Доставка / логистика ===
+cdek.ru
+pochta.ru
+sdek.ru
+samokat.ru
+sbermarket.ru
+kuper.ru
+dostavista.ru
+boxberry.ru
+dpd.ru
+
+# === Классифайды / сервисы ===
+hh.ru
+superjob.ru
+2gis.ru
+drom.ru
+auto.ru
+cian.ru
+domclick.ru
+profi.ru
+sravni.ru
+banki.ru
+gismeteo.ru
+
+# === Медиа ===
+rbc.ru
+ria.ru
+tass.ru
+lenta.ru
+kommersant.ru
+1tv.ru
+vesti.ru
+gazeta.ru
+mk.ru
+kp.ru
+iz.ru
+rg.ru
+
+# === Стриминг / видео РФ ===
+ivi.ru
+okko.tv
+premier.one
+more.tv
+wink.ru
+start.ru
+rutube.ru
+smotrim.ru
+kion.ru
+
+# === Прочее ===
+habr.com
+sberdisk.ru
+gosuslugi.ru
+cloud.ru
